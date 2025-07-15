@@ -1,0 +1,17 @@
+{
+  "installationFolder": "D:\\work space\\tonkit\\FaceRecognitionImages\\openCV\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":openCV",
+  "packageInfo": {
+    "packageName": "openCV",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "D:\\work space\\tonkit\\FaceRecognitionImages\\openCV\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}
