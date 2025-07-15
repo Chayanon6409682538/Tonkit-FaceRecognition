@@ -1,2 +1,0 @@
-ninja: Entering directory `D:\work space\tonkit\FaceRecognitionImages\openCV\.cxx\Debug\6p4y7726\x86_64'
-ninja: no work to do.
